@@ -11,7 +11,7 @@ import cpw.mods.fml.common.network.NetworkRegistry;
 @Mod(modid = Crash.MODID, version = Crash.VERSION)
 public class Crash
 {
-    public static final String MODID = "crash";
+    public static final String MODID = "Five Nights At Freddy's Mod";
     public static final String VERSION = "1.7.2";
     public static FMLEventChannel Channel;
 
